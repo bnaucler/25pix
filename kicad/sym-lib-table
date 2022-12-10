@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "MLL1200S")(type "Legacy")(uri "${KIPRJMOD}/lib/MLL1200S.lib")(options "")(descr ""))
+  (lib (name "TS-1187A-B-A-B")(type "Legacy")(uri "${KIPRJMOD}/lib/TS-1187A-B-A-B.lib")(options "")(descr ""))
+  (lib (name "ALS-PT19-315C_L177_TR8")(type "Legacy")(uri "${KIPRJMOD}/lib/ALS-PT19-315C_L177_TR8.lib")(options "")(descr ""))
+)
