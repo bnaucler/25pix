@@ -2,6 +2,8 @@
 # 25pix game console
 A simple game console with a 25 pixel 'screen' built of WS2812 LEDs
 
+![25pix](25pix.jpg)
+
 ## Created by
 Björn Westerberg Nauclér (mail@bnaucler.se) 2022
 
