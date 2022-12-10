@@ -13,7 +13,7 @@ Edit `platformio.ini` to set upload port
 Configuration can be done by editing macros in `src/25pix_config.h`.  
 
 ## Hardware
-In the `kicad` sub-directory you can find [KiCad](https://kicad.org) files for production as well as a schematic if you prefer to build your own hardware.
+In the `kicad` sub-directory you can find [KiCad](https://kicad.org) files. If you prefer to send to production as is, the `hw_production` sub-directory has all gerbers, POS/CPL file and BOM in the correct format for ordering from [JLCPCB](https://jlcpcb.com).
 
 ## Contributing
 Submit an issue or send a pull request if you feel inclined to get involved.
